@@ -1,4 +1,5 @@
-﻿/*=============================================================
+﻿
+/*=============================================================
     Authour URL: www.designbootstrap.com
     
     http://www.designbootstrap.com/
@@ -156,19 +157,22 @@ padding:0px;
     }
 
 /*================================
-    SERVICES STYLES
+    RESUME STYLES
 ==================================*/
-#services {
+#resume {
     background-color: rgba(237, 237, 237, 1);
+    
+
 }
 
-    #services i {
+
+    #resume i {
         font-size: 80px;
         padding: 30px;
         color: #FF2276;
     }
 
-    #services h4 {
+    #reume h4 {
         padding-bottom: 5px;
         padding-top: 15px;
     }
@@ -177,7 +181,7 @@ padding:0px;
  ============================================================ */
 
 #clients {
-    background: url(../img/clients.jpg) no-repeat center center;
+    background: url(../img/beez.jpg) no-repeat center center;
     padding: 0;
     -webkit-background-size: cover;
     background-size: cover;
